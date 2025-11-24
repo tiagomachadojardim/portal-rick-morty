@@ -164,7 +164,7 @@ Contribuições são bem-vindas! Sinta-se livre para:
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT.
 
 ## 👨‍💻 Autor
 
